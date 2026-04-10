@@ -10,6 +10,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `14-comment-faire-une-revue-mensuelle-de-ses-methodes-de-travail.md` - relire ses routines de travail sans transformer ce moment en audit pesant
 - `15-comment-tenir-un-journal-de-decisions-utile-dans-un-projet.md` - garder une trace exploitable des choix importants sans écrire un roman administratif
 - `16-comment-choisir-entre-faire-soi-meme-et-se-faire-accompagner-sur-wordpress.md` - clarifier quand lancer un site WordPress seul et quand chercher un cadre d'accompagnement
+- `17-checklist-de-revue-mensuelle-d-un-workflow.md` - passer en revue un workflow avec une checklist courte, utile et maintenable
 
 ## 🎯 À quoi cela sert
 
