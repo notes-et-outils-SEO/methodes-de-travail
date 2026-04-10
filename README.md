@@ -4,13 +4,13 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 
 ## 📂 Ce que contient ce dossier
 
-- `11-comment-organiser-une-veille-outils-sans-se-noyer.md` - organiser une veille utile, sans surcharge ni accumulation confuse
-- `12-comment-documenter-un-workflow-editorial-sans-usine-a-gaz.md` - documenter un processus éditorial sans le rendre plus lourd que le travail lui-même
-- `13-quand-un-tableur-suffit-au-lieu-d-un-saas.md` - reconnaître les cas où un tableur reste plus rationnel qu'un logiciel supplémentaire
-- `14-comment-faire-une-revue-mensuelle-de-ses-methodes-de-travail.md` - relire ses routines de travail sans transformer ce moment en audit pesant
-- `15-comment-tenir-un-journal-de-decisions-utile-dans-un-projet.md` - garder une trace exploitable des choix importants sans écrire un roman administratif
-- `16-comment-choisir-entre-faire-soi-meme-et-se-faire-accompagner-sur-wordpress.md` - clarifier quand lancer un site WordPress seul et quand chercher un cadre d'accompagnement
-- `17-checklist-de-revue-mensuelle-d-un-workflow.md` - passer en revue un workflow avec une checklist courte, utile et maintenable
+- `comment-organiser-une-veille-outils-sans-se-noyer.md` - organiser une veille utile, sans surcharge ni accumulation confuse
+- `comment-documenter-un-workflow-editorial-sans-usine-a-gaz.md` - documenter un processus éditorial sans le rendre plus lourd que le travail lui-même
+- `quand-un-tableur-suffit-au-lieu-d-un-saas.md` - reconnaître les cas où un tableur reste plus rationnel qu'un logiciel supplémentaire
+- `comment-faire-une-revue-mensuelle-de-ses-methodes-de-travail.md` - relire ses routines de travail sans transformer ce moment en audit pesant
+- `comment-tenir-un-journal-de-decisions-utile-dans-un-projet.md` - garder une trace exploitable des choix importants sans écrire un roman administratif
+- `comment-choisir-entre-faire-soi-meme-et-se-faire-accompagner-sur-wordpress.md` - clarifier quand lancer un site WordPress seul et quand chercher un cadre d'accompagnement
+- `checklist-de-revue-mensuelle-d-un-workflow.md` - passer en revue un workflow avec une checklist courte, utile et maintenable
 
 ## 🎯 À quoi cela sert
 
