@@ -9,6 +9,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `13-quand-un-tableur-suffit-au-lieu-d-un-saas.md` - reconnaître les cas où un tableur reste plus rationnel qu'un logiciel supplémentaire
 - `14-comment-faire-une-revue-mensuelle-de-ses-methodes-de-travail.md` - relire ses routines de travail sans transformer ce moment en audit pesant
 - `15-comment-tenir-un-journal-de-decisions-utile-dans-un-projet.md` - garder une trace exploitable des choix importants sans écrire un roman administratif
+- `16-comment-choisir-entre-faire-soi-meme-et-se-faire-accompagner-sur-wordpress.md` - clarifier quand lancer un site WordPress seul et quand chercher un cadre d'accompagnement
 
 ## 🎯 À quoi cela sert
 
