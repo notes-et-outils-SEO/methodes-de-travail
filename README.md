@@ -12,7 +12,8 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `comment-choisir-entre-faire-soi-meme-et-se-faire-accompagner-sur-wordpress.md` - clarifier quand lancer un site WordPress seul et quand chercher un cadre d'accompagnement
 - `checklist-de-revue-mensuelle-d-un-workflow.md` - passer en revue un workflow avec une checklist courte, utile et maintenable
 - `comment-garder-une-petite-pile-d-outils-coherente-dans-le-temps.md` - relire sa pile d'outils pour éviter les chevauchements et la confusion installée avec le temps
-- `quelle-difference-entre-un-rotator-de-liens-et-un-lien-raccourci.md` - distinguer un lien raccourci d'un rotator et éviter d'ajouter de la complexité sans besoin réel
+- `qu-est-ce-qu-un-rotator-de-liens.md` - comprendre le rôle d'un rotator et savoir quand il ajoute une vraie logique de distribution
+- `qu-est-ce-qu-un-lien-raccourci.md` - clarifier ce qu'apporte un lien raccourci et dans quels cas il reste préférable à un lien direct
 
 ## 🎯 À quoi cela sert
 
