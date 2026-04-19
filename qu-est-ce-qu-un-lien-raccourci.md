@@ -16,15 +16,11 @@ Autrement dit, un lien raccourci n'est pas censé redistribuer le trafic entre p
 
 ## 📌 Pourquoi on l'utilise souvent
 
-Le recours à un lien raccourci est fréquent pour trois raisons principales :
+On utilise souvent un lien raccourci dans des cas très terre à terre. Sur un support imprimé, une URL courte réduit le risque d'erreur quand quelqu'un la recopie à la main. Dans un PDF, une présentation ou un slide commercial, elle prend moins de place et casse moins la mise en page. Dans une bio, un message rapide ou un QR code, elle évite aussi d'exposer une adresse longue remplie de paramètres peu lisibles.
 
-- la lisibilité ;
-- la facilité de partage ;
-- le confort de mémorisation.
+Le gain devient encore plus évident quand le lien final contient des paramètres de campagne ou une structure lourde. L'URL d'origine peut parfaitement fonctionner, mais elle devient peu élégante à afficher dans un email, une signature ou un document partagé. Le raccourcissement sert alors surtout à rendre la diffusion plus nette, pas à changer la logique du clic.
 
-Une adresse courte est plus facile à recopier, plus discrète dans un support visuel et souvent plus propre dans une communication rapide. Dans certains cas, elle permet aussi de centraliser le suivi d'un lien sans exposer directement une URL complexe.
-
-Cela explique pourquoi les liens raccourcis apparaissent souvent dans des environnements où chaque caractère, chaque ligne ou chaque détail visuel compte. Leur succès vient surtout de cette utilité très concrète.
+Autrement dit, le lien raccourci n'est pas utilisé parce qu'il serait plus sophistiqué. Il est utilisé parce qu'il rend le support plus propre, plus lisible et plus simple à relayer dans des contextes où la forme compte presque autant que la destination.
 
 | Besoin | Le lien raccourci aide-t-il ? |
 | --- | --- |

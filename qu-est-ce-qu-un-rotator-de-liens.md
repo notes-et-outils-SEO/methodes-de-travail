@@ -10,9 +10,11 @@ Le point important est donc le suivant : un rotator n'est pas seulement une URL 
 
 ## 🧭 Dans quels cas un rotator peut être utile
 
-Un rotator devient pertinent lorsqu'il y a un vrai besoin de distribution. Cela peut concerner un test entre deux pages, une ventilation entre plusieurs destinations, un partage de trafic entre différentes variantes d'une offre, ou encore une logique de redirection conditionnelle selon le contexte d'arrivée.
+Un rotator devient pertinent lorsqu'une même entrée doit réellement servir plusieurs sorties sans que l'on veuille changer le lien visible partout. Un cas classique est le test entre deux pages de destination dans une même campagne : on garde une seule URL dans l'email, la publicité ou le bouton, mais on répartit ensuite les clics entre deux variantes pour comparer ce qui se passe.
 
-Dans ces situations, le rotator permet d'éviter de multiplier les liens visibles quand on veut centraliser l'entrée. Il peut aussi simplifier certains tests, à condition que la logique soit bien définie à l'avance. Le bon usage d'un rotator commence donc toujours par cette question : **pourquoi faut-il plusieurs destinations derrière un même lien ?** Si la réponse reste floue, l'outil est probablement de trop.
+Il peut aussi être utile dans des cas plus opérationnels. Une équipe peut vouloir envoyer une partie du trafic vers une version mobile allégée et une autre vers une page plus complète sur desktop. Autre exemple : un même lien partagé dans une newsletter peut orienter vers une page française ou anglaise selon le contexte déjà détecté. Dans ces situations, le rotator évite de dupliquer les points d'entrée tout en gardant une règle de distribution claire.
+
+Le bon usage commence donc toujours par une question très simple : **si deux personnes cliquent sur le même lien, qu'est-ce qui justifie qu'elles n'arrivent pas au même endroit ?** Si cette réponse ne tient pas en une phrase compréhensible, l'outil est probablement de trop.
 
 ## 🧱 Ce qu'il ne faut pas attendre d'un rotator
 
