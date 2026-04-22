@@ -12,6 +12,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `comment-choisir-entre-faire-soi-meme-et-se-faire-accompagner-sur-wordpress.md` - clarifier quand lancer un site WordPress seul et quand chercher un cadre d'accompagnement
 - `checklist-de-revue-mensuelle-d-un-workflow.md` - passer en revue un workflow avec une checklist courte, utile et maintenable
 - `comment-garder-une-petite-pile-d-outils-coherente-dans-le-temps.md` - relire sa pile d'outils pour éviter les chevauchements et la confusion installée avec le temps
+- `comment-savoir-si-une-tache-merite-vraiment-une-automatisation.md` - décider à partir de quand une routine est assez stable et assez fréquente pour être automatisée
 - `comment-tester-un-nouvel-outil-sans-deregler-tout-son-workflow.md` - cadrer un essai d'outil sans transformer trop tôt le test en migration implicite
 - `qu-est-ce-qu-un-rotator-de-liens.md` - comprendre le rôle d'un rotator et savoir quand il ajoute une vraie logique de distribution
 - `qu-est-ce-qu-un-lien-raccourci.md` - clarifier ce qu'apporte un lien raccourci et dans quels cas il reste préférable à un lien direct
