@@ -10,6 +10,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `comment-faire-une-revue-mensuelle-de-ses-methodes-de-travail.md` - relire ses routines de travail sans transformer ce moment en audit pesant
 - `comment-tenir-un-journal-de-decisions-utile-dans-un-projet.md` - garder une trace exploitable des choix importants sans écrire un roman administratif
 - `comment-choisir-entre-faire-soi-meme-et-se-faire-accompagner-sur-wordpress.md` - clarifier quand lancer un site WordPress seul et quand chercher un cadre d'accompagnement
+- `comment-choisir-entre-outil-tout-en-un-et-stack-modulaire.md` - arbitrer entre centralisation et pile modulaire selon la continuité réelle du workflow
 - `checklist-de-revue-mensuelle-d-un-workflow.md` - passer en revue un workflow avec une checklist courte, utile et maintenable
 - `comment-garder-une-petite-pile-d-outils-coherente-dans-le-temps.md` - relire sa pile d'outils pour éviter les chevauchements et la confusion installée avec le temps
 - `comment-savoir-si-une-tache-merite-vraiment-une-automatisation.md` - décider à partir de quand une routine est assez stable et assez fréquente pour être automatisée
