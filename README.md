@@ -20,6 +20,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `qu-est-ce-qu-un-rotator-de-liens.md` - comprendre le rôle d'un rotator et savoir quand il ajoute une vraie logique de distribution
 - `qu-est-ce-qu-un-lien-raccourci.md` - clarifier ce qu'apporte un lien raccourci et dans quels cas il reste préférable à un lien direct
 - `bitly-shortio-linkafactory-choisir-un-raccourcisseur-selon-le-besoin.md` - comparer Bitly, Short.io et LinkaFactory selon le niveau de pilotage attendu
+- `linktree-carrd-systeme-io-choisir-selon-ce-que-la-page-doit-faire.md` - choisir entre page de liens, page simple et mini-tunnel selon le rôle réel de la page
 
 ## 🎯 À quoi cela sert
 
