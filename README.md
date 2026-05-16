@@ -21,6 +21,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `qu-est-ce-qu-un-lien-raccourci.md` - clarifier ce qu'apporte un lien raccourci et dans quels cas il reste préférable à un lien direct
 - `bitly-shortio-linkafactory-choisir-un-raccourcisseur-selon-le-besoin.md` - comparer Bitly, Short.io et LinkaFactory selon le niveau de pilotage attendu
 - `linktree-carrd-systeme-io-choisir-selon-ce-que-la-page-doit-faire.md` - choisir entre page de liens, page simple et mini-tunnel selon le rôle réel de la page
+- `gumroad-stripe-payment-links-systeme-io-vendre-un-produit-simple-sans-usine-a-gaz.md` - comparer une page produit, un lien de paiement et un mini-système de vente selon le besoin réel
 
 ## 🎯 À quoi cela sert
 
