@@ -23,6 +23,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `linktree-carrd-systeme-io-choisir-selon-ce-que-la-page-doit-faire.md` - choisir entre page de liens, page simple et mini-tunnel selon le rôle réel de la page
 - `gumroad-stripe-payment-links-systeme-io-vendre-un-produit-simple-sans-usine-a-gaz.md` - comparer une page produit, un lien de paiement et un mini-système de vente selon le besoin réel
 - `mailchimp-brevo-poptin-capturer-des-emails-sans-abimer-l-experience-utilisateur.md` - distinguer plateforme email, relation client et point de capture sans fatiguer le visiteur
+- `clickfunnels-kajabi-systeme-io-choisir-selon-ce-que-vous-vendez.md` - choisir entre tunnel de vente, plateforme d'expertise et tout-en-un de lancement selon l'offre réelle
 
 ## 🎯 À quoi cela sert
 
