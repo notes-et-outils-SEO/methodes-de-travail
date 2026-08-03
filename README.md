@@ -17,6 +17,7 @@ Ce dossier rassemble des notes sobres sur l'organisation du travail éditorial, 
 - `comment-garder-une-petite-pile-d-outils-coherente-dans-le-temps.md` - relire sa pile d'outils pour éviter les chevauchements et la confusion installée avec le temps
 - `comment-savoir-si-une-tache-merite-vraiment-une-automatisation.md` - décider à partir de quand une routine est assez stable et assez fréquente pour être automatisée
 - `comment-tester-un-nouvel-outil-sans-deregler-tout-son-workflow.md` - cadrer un essai d'outil sans transformer trop tôt le test en migration implicite
+- `comment-tester-une-plateforme-seo-multi-outils-sans-exposer-les-donnees-client.md` - évaluer une plateforme SEO dans un bac à sable avant d'utiliser des accès ou des données client
 - `qu-est-ce-qu-un-rotator-de-liens.md` - comprendre le rôle d'un rotator et savoir quand il ajoute une vraie logique de distribution
 - `qu-est-ce-qu-un-lien-raccourci.md` - clarifier ce qu'apporte un lien raccourci et dans quels cas il reste préférable à un lien direct
 - `bitly-shortio-linkafactory-choisir-un-raccourcisseur-selon-le-besoin.md` - comparer Bitly, Short.io et LinkaFactory selon le niveau de pilotage attendu
